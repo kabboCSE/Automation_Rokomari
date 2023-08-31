@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automaiton]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="LoginTest(failed)">
+    <classes>
+      <class name="com.rokomari.tests.SignOutTest">
+        <methods>
+          <include name="Start"/>
+          <include name="signOutPageTest"/>
+          <include name="afterClass"/>
+          <include name="OpenUrl"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.SignOutTest -->
+      <class name="com.rokomari.tests.loginAfterSignOutTest">
+        <methods>
+          <include name="afterClass"/>
+          <include name="Start"/>
+          <include name="OpenUrl"/>
+          <include name="signOutPageTest"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.loginAfterSignOutTest -->
+      <class name="com.rokomari.tests.SelectBookTest">
+        <methods>
+          <include name="openUrl"/>
+          <include name="Start"/>
+          <include name="selectbook"/>
+          <include name="afterClass"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.SelectBookTest -->
+      <class name="com.rokomari.tests.CartTest">
+        <methods>
+          <include name="Start"/>
+          <include name="cartPageTest"/>
+          <include name="close"/>
+          <include name="openUrl"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.CartTest -->
+      <class name="com.rokomari.tests.CartScrollingWithRocketSelectTest">
+        <methods>
+          <include name="openUrl"/>
+          <include name="cartScrollTest"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.CartScrollingWithRocketSelectTest -->
+      <class name="com.rokomari.tests.GoogleSigninBtnTest">
+        <methods>
+          <include name="writerPageTest"/>
+          <include name="Start"/>
+          <include name="openUrl"/>
+          <include name="close"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.GoogleSigninBtnTest -->
+      <class name="com.rokomari.tests.WriterPageTest">
+        <methods>
+          <include name="writerPageTest"/>
+          <include name="openUrl"/>
+          <include name="Start"/>
+          <include name="close"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.WriterPageTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [Automaiton] -->

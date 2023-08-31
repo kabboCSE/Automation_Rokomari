@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automaiton">
+	<test name="LoginTest">
+		<classes>
+			<class name="com.rokomari.tests.MainPageTest" />
+			<class name="com.rokomari.tests.WriterPageTest" />
+			<class name="com.rokomari.tests.SelectBookTest" />
+			<class name="com.rokomari.tests.CartTest" />
+			<class name="com.rokomari.tests.CartScrollingWithRocketSelectTest" />
+			<class name="com.rokomari.tests.SignOutTest" />
+			<class name="com.rokomari.tests.loginAfterSignOutTest" />
+			<class name="com.rokomari.tests.GoogleSigninBtnTest" />
+			
+			
+			
+			
+		</classes>
+	</test>
+</suite> 
