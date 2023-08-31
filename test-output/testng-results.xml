@@ -2,126 +2,126 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-01T02:59:00 BDT" name="Automaiton" finished-at="2023-09-01T02:59:58 BDT" duration-ms="58446">
+  <suite started-at="2023-09-01T03:16:38 BDT" name="Automaiton" finished-at="2023-09-01T03:17:38 BDT" duration-ms="59572">
     <groups>
     </groups>
-    <test started-at="2023-09-01T02:59:00 BDT" name="LoginTest" finished-at="2023-09-01T02:59:58 BDT" duration-ms="58446">
+    <test started-at="2023-09-01T03:16:38 BDT" name="LoginTest" finished-at="2023-09-01T03:17:38 BDT" duration-ms="59572">
       <class name="com.rokomari.tests.GoogleSigninBtnTest">
-        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.GoogleSigninBtnTest@7ce69770]" started-at="2023-09-01T02:59:49 BDT" name="openUrl" finished-at="2023-09-01T02:59:49 BDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.GoogleSigninBtnTest@7ce69770]" started-at="2023-09-01T03:17:28 BDT" name="openUrl" finished-at="2023-09-01T03:17:28 BDT" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="writerPageTest()[pri:0, instance:com.rokomari.tests.GoogleSigninBtnTest@7ce69770]" started-at="2023-09-01T02:59:49 BDT" name="writerPageTest" finished-at="2023-09-01T02:59:58 BDT" duration-ms="9783" status="PASS">
+        <test-method signature="writerPageTest()[pri:0, instance:com.rokomari.tests.GoogleSigninBtnTest@7ce69770]" started-at="2023-09-01T03:17:28 BDT" name="writerPageTest" finished-at="2023-09-01T03:17:38 BDT" duration-ms="9910" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- writerPageTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.GoogleSigninBtnTest@7ce69770]" started-at="2023-09-01T02:59:58 BDT" name="afterClass" finished-at="2023-09-01T02:59:58 BDT" duration-ms="110" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.GoogleSigninBtnTest@7ce69770]" started-at="2023-09-01T03:17:38 BDT" name="afterClass" finished-at="2023-09-01T03:17:38 BDT" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.rokomari.tests.GoogleSigninBtnTest -->
       <class name="com.rokomari.tests.WriterPageTest">
-        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.WriterPageTest@710c2b53]" started-at="2023-09-01T02:59:08 BDT" name="openUrl" finished-at="2023-09-01T02:59:08 BDT" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.WriterPageTest@710c2b53]" started-at="2023-09-01T03:16:47 BDT" name="openUrl" finished-at="2023-09-01T03:16:47 BDT" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="writerPageTest()[pri:0, instance:com.rokomari.tests.WriterPageTest@710c2b53]" started-at="2023-09-01T02:59:08 BDT" name="writerPageTest" finished-at="2023-09-01T02:59:17 BDT" duration-ms="9427" status="PASS">
+        <test-method signature="writerPageTest()[pri:0, instance:com.rokomari.tests.WriterPageTest@710c2b53]" started-at="2023-09-01T03:16:47 BDT" name="writerPageTest" finished-at="2023-09-01T03:16:56 BDT" duration-ms="9773" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- writerPageTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.WriterPageTest@710c2b53]" started-at="2023-09-01T02:59:17 BDT" name="afterClass" finished-at="2023-09-01T02:59:17 BDT" duration-ms="64" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.WriterPageTest@710c2b53]" started-at="2023-09-01T03:16:56 BDT" name="afterClass" finished-at="2023-09-01T03:16:56 BDT" duration-ms="71" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.rokomari.tests.WriterPageTest -->
       <class name="com.rokomari.tests.CartScrollingWithRocketSelectTest">
-        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.CartScrollingWithRocketSelectTest@cecf639]" started-at="2023-09-01T02:59:32 BDT" name="openUrl" finished-at="2023-09-01T02:59:32 BDT" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.CartScrollingWithRocketSelectTest@cecf639]" started-at="2023-09-01T03:17:11 BDT" name="openUrl" finished-at="2023-09-01T03:17:11 BDT" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="cartScrollTest()[pri:0, instance:com.rokomari.tests.CartScrollingWithRocketSelectTest@cecf639]" started-at="2023-09-01T02:59:32 BDT" name="cartScrollTest" finished-at="2023-09-01T02:59:36 BDT" duration-ms="4341" status="PASS">
+        <test-method signature="cartScrollTest()[pri:0, instance:com.rokomari.tests.CartScrollingWithRocketSelectTest@cecf639]" started-at="2023-09-01T03:17:11 BDT" name="cartScrollTest" finished-at="2023-09-01T03:17:16 BDT" duration-ms="4271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartScrollTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.CartScrollingWithRocketSelectTest@cecf639]" started-at="2023-09-01T02:59:36 BDT" name="afterClass" finished-at="2023-09-01T02:59:36 BDT" duration-ms="49" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.CartScrollingWithRocketSelectTest@cecf639]" started-at="2023-09-01T03:17:16 BDT" name="afterClass" finished-at="2023-09-01T03:17:16 BDT" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.rokomari.tests.CartScrollingWithRocketSelectTest -->
       <class name="com.rokomari.tests.MainPageTest">
-        <test-method is-config="true" signature="Start()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T02:58:59 BDT" name="Start" finished-at="2023-09-01T02:59:00 BDT" duration-ms="1447" status="PASS">
+        <test-method is-config="true" signature="Start()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T03:16:37 BDT" name="Start" finished-at="2023-09-01T03:16:38 BDT" duration-ms="1354" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Start -->
-        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T02:59:00 BDT" name="openUrl" finished-at="2023-09-01T02:59:03 BDT" duration-ms="2627" status="PASS">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T03:16:38 BDT" name="openUrl" finished-at="2023-09-01T03:16:41 BDT" duration-ms="2720" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="homePageTest()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T02:59:03 BDT" name="homePageTest" finished-at="2023-09-01T02:59:08 BDT" duration-ms="4904" status="PASS">
+        <test-method signature="homePageTest()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T03:16:41 BDT" name="homePageTest" finished-at="2023-09-01T03:16:46 BDT" duration-ms="5297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T02:59:08 BDT" name="afterClass" finished-at="2023-09-01T02:59:08 BDT" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T03:16:46 BDT" name="afterClass" finished-at="2023-09-01T03:16:47 BDT" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T02:59:58 BDT" name="close" finished-at="2023-09-01T02:59:59 BDT" duration-ms="170" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:com.rokomari.tests.MainPageTest@5524cca1]" started-at="2023-09-01T03:17:38 BDT" name="close" finished-at="2023-09-01T03:17:38 BDT" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- com.rokomari.tests.MainPageTest -->
       <class name="com.rokomari.tests.SignOutTest">
-        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:com.rokomari.tests.SignOutTest@1caa0244]" started-at="2023-09-01T02:59:36 BDT" name="OpenUrl" finished-at="2023-09-01T02:59:36 BDT" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:com.rokomari.tests.SignOutTest@1caa0244]" started-at="2023-09-01T03:17:16 BDT" name="OpenUrl" finished-at="2023-09-01T03:17:16 BDT" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenUrl -->
-        <test-method signature="signOutPageTest()[pri:0, instance:com.rokomari.tests.SignOutTest@1caa0244]" started-at="2023-09-01T02:59:36 BDT" name="signOutPageTest" finished-at="2023-09-01T02:59:41 BDT" duration-ms="5049" status="PASS">
+        <test-method signature="signOutPageTest()[pri:0, instance:com.rokomari.tests.SignOutTest@1caa0244]" started-at="2023-09-01T03:17:16 BDT" name="signOutPageTest" finished-at="2023-09-01T03:17:21 BDT" duration-ms="5003" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signOutPageTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.SignOutTest@1caa0244]" started-at="2023-09-01T02:59:41 BDT" name="afterClass" finished-at="2023-09-01T02:59:41 BDT" duration-ms="107" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.SignOutTest@1caa0244]" started-at="2023-09-01T03:17:21 BDT" name="afterClass" finished-at="2023-09-01T03:17:21 BDT" duration-ms="94" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.rokomari.tests.SignOutTest -->
       <class name="com.rokomari.tests.SelectBookTest">
-        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.SelectBookTest@5386659f]" started-at="2023-09-01T02:59:17 BDT" name="openUrl" finished-at="2023-09-01T02:59:17 BDT" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.SelectBookTest@5386659f]" started-at="2023-09-01T03:16:56 BDT" name="openUrl" finished-at="2023-09-01T03:16:56 BDT" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="selectbook()[pri:0, instance:com.rokomari.tests.SelectBookTest@5386659f]" started-at="2023-09-01T02:59:17 BDT" name="selectbook" finished-at="2023-09-01T02:59:23 BDT" duration-ms="5748" status="PASS">
+        <test-method signature="selectbook()[pri:0, instance:com.rokomari.tests.SelectBookTest@5386659f]" started-at="2023-09-01T03:16:56 BDT" name="selectbook" finished-at="2023-09-01T03:17:02 BDT" duration-ms="6014" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectbook -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.SelectBookTest@5386659f]" started-at="2023-09-01T02:59:23 BDT" name="afterClass" finished-at="2023-09-01T02:59:23 BDT" duration-ms="73" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.SelectBookTest@5386659f]" started-at="2023-09-01T03:17:02 BDT" name="afterClass" finished-at="2023-09-01T03:17:02 BDT" duration-ms="72" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.rokomari.tests.SelectBookTest -->
       <class name="com.rokomari.tests.loginAfterSignOutTest">
-        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:com.rokomari.tests.loginAfterSignOutTest@7ce026d3]" started-at="2023-09-01T02:59:41 BDT" name="OpenUrl" finished-at="2023-09-01T02:59:41 BDT" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="OpenUrl()[pri:0, instance:com.rokomari.tests.loginAfterSignOutTest@7ce026d3]" started-at="2023-09-01T03:17:21 BDT" name="OpenUrl" finished-at="2023-09-01T03:17:21 BDT" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenUrl -->
-        <test-method signature="signOutPageTest()[pri:0, instance:com.rokomari.tests.loginAfterSignOutTest@7ce026d3]" started-at="2023-09-01T02:59:41 BDT" name="signOutPageTest" finished-at="2023-09-01T02:59:48 BDT" duration-ms="6964" status="PASS">
+        <test-method signature="signOutPageTest()[pri:0, instance:com.rokomari.tests.loginAfterSignOutTest@7ce026d3]" started-at="2023-09-01T03:17:21 BDT" name="signOutPageTest" finished-at="2023-09-01T03:17:28 BDT" duration-ms="6993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signOutPageTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.loginAfterSignOutTest@7ce026d3]" started-at="2023-09-01T02:59:48 BDT" name="afterClass" finished-at="2023-09-01T02:59:49 BDT" duration-ms="101" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.loginAfterSignOutTest@7ce026d3]" started-at="2023-09-01T03:17:28 BDT" name="afterClass" finished-at="2023-09-01T03:17:28 BDT" duration-ms="93" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.rokomari.tests.loginAfterSignOutTest -->
       <class name="com.rokomari.tests.CartTest">
-        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.CartTest@14028087]" started-at="2023-09-01T02:59:23 BDT" name="openUrl" finished-at="2023-09-01T02:59:23 BDT" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.rokomari.tests.CartTest@14028087]" started-at="2023-09-01T03:17:02 BDT" name="openUrl" finished-at="2023-09-01T03:17:02 BDT" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method signature="cartPageTest()[pri:0, instance:com.rokomari.tests.CartTest@14028087]" started-at="2023-09-01T02:59:23 BDT" name="cartPageTest" finished-at="2023-09-01T02:59:32 BDT" duration-ms="8752" status="PASS">
+        <test-method signature="cartPageTest()[pri:0, instance:com.rokomari.tests.CartTest@14028087]" started-at="2023-09-01T03:17:02 BDT" name="cartPageTest" finished-at="2023-09-01T03:17:11 BDT" duration-ms="8753" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartPageTest -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.CartTest@14028087]" started-at="2023-09-01T02:59:32 BDT" name="afterClass" finished-at="2023-09-01T02:59:32 BDT" duration-ms="76" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.rokomari.tests.CartTest@14028087]" started-at="2023-09-01T03:17:11 BDT" name="afterClass" finished-at="2023-09-01T03:17:11 BDT" duration-ms="72" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

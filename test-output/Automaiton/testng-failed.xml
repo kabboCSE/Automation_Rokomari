@@ -46,6 +46,15 @@
           <include name="afterClass"/>
         </methods>
       </class> <!-- com.rokomari.tests.CartScrollingWithRocketSelectTest -->
+      <class name="com.rokomari.tests.MainPageTest">
+        <methods>
+          <include name="afterClass"/>
+          <include name="openUrl"/>
+          <include name="Start"/>
+          <include name="homePageTest"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- com.rokomari.tests.MainPageTest -->
       <class name="com.rokomari.tests.GoogleSigninBtnTest">
         <methods>
           <include name="writerPageTest"/>
