@@ -1,7 +1,9 @@
 # Automation_Rokomari
 <p>I have done an Automation  on a website named 'Rokomari.' Here, I have tested different functionalities like Writer Selection, Scrolling Page, Selecting different types of buttons, fill up forms, signout, and signout. </p>
+
 **Overview Report Of Rokomari Automation Project:**
-![image](https://github.com/kabboCSE/Automation_Rokomari/assets/123986919/57e46403-9da9-437c-98bc-83432cea7bee)
+![image](https://github.com/kabboCSE/Automation_Rokomari/assets/123986919/9e075d14-7685-4004-91f7-750d0e018adf)
+
 
 **Hovered Writer:**
 ![writer](https://github.com/kabboCSE/Automation_Rokomari/assets/123986919/39273b31-24ae-4fda-a85b-9749a235e966)
